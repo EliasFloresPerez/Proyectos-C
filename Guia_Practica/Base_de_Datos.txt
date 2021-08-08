@@ -1,0 +1,10 @@
+
+Nombres del estudiante  :Elias
+Id de la  Matricula :1234
+Numero de matriculas: 1
+Calificacion : 100
+
+Nombres del estudiante :Alex
+Id de la  Matricula :125
+Numero de matriculas: 2
+Calificacion : 29
